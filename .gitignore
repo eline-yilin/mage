@@ -1,0 +1,17 @@
+
+/var
+/media
+/app/etc/local.xml
+/errors/local.xml
+/nbproject
+/app/code/community
+/app/code/core
+/app/design/adminhtml/base/default/template/debug
+/app/design/frontend/base
+/skin/frontend/default
+/app/design/adminhtml/
+/downloader/.cache
+/.settings
+/.project
+/.buildpath
+.project
